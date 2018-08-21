@@ -179,16 +179,4 @@ def main():
 
 main()
 
-'''
-def jug():
-    if jug()==1:
-        jug()-1
-        
-    return (jug()+1)
 
-
-def eva():
-    if dado()==1 && jug()==1:
-        print 'Dado=1'
-        jugador1()-mini()
-'''
